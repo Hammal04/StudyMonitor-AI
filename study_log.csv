@@ -1,0 +1,373 @@
+Timestamp,EventType,Details
+2026-05-09 15:01:31,Session Start,Study session started
+2026-05-09 15:07:44,Session Start,Study session started
+2026-05-09 15:07:59,Session Start,Study session started
+2026-05-09 15:08:42,Session Start,Study session started
+2026-05-09 15:11:48,Session Start,Study session started
+2026-05-09 15:32:01,Session Start,Study session started
+2026-05-09 15:32:39,Session Start,Study session started
+2026-05-09 15:41:40,Session Start,Study session started
+2026-05-09 15:44:02,Session Start,Study session started
+2026-05-09 15:44:37,Sleep,Eyes closed for >3s
+2026-05-09 15:44:51,Phone Usage,Phone detected in frame
+2026-05-09 15:44:52,Phone Usage,Phone detected in frame
+2026-05-09 15:44:52,Phone Usage,Phone detected in frame
+2026-05-09 15:44:53,Phone Usage,Phone detected in frame
+2026-05-09 15:45:06,Phone Usage,Phone detected in frame
+2026-05-09 15:45:23,Sleep,Eyes closed for >3s
+2026-05-09 15:45:28,Sleep,Eyes closed for >3s
+2026-05-09 15:45:39,Sleep,Eyes closed for >3s
+2026-05-09 15:45:39,Distraction,Looking Center for >3s
+2026-05-09 15:45:59,Phone Usage,Phone detected in frame
+2026-05-09 15:45:59,Sleep,Eyes closed for >3s
+2026-05-09 15:46:06,Phone Usage,Phone detected in frame
+2026-05-09 15:46:07,Sleep,Eyes closed for >3s
+2026-05-09 15:46:07,Phone Usage,Phone detected in frame
+2026-05-09 15:46:13,Sleep,Eyes closed for >3s
+2026-05-09 15:46:16,Phone Usage,Phone detected in frame
+2026-05-09 15:46:18,Phone Usage,Phone detected in frame
+2026-05-09 15:46:18,Phone Usage,Phone detected in frame
+2026-05-09 15:46:19,Phone Usage,Phone detected in frame
+2026-05-09 15:46:19,Phone Usage,Phone detected in frame
+2026-05-09 15:46:35,Distraction,Looking Center for >3s
+2026-05-09 15:46:44,Distraction,Looking Center for >3s
+2026-05-09 15:47:07,Sleep,Eyes closed for >3s
+2026-05-09 15:47:38,Phone Usage,Phone detected in frame
+2026-05-09 15:47:38,Phone Usage,Phone detected in frame
+2026-05-09 15:47:40,Phone Usage,Phone detected in frame
+2026-05-09 15:47:40,Phone Usage,Phone detected in frame
+2026-05-09 15:47:41,Phone Usage,Phone detected in frame
+2026-05-09 15:47:41,Phone Usage,Phone detected in frame
+2026-05-09 15:47:41,Distraction,Looking Center for >3s
+2026-05-09 15:47:42,Phone Usage,Phone detected in frame
+2026-05-09 15:47:43,Phone Usage,Phone detected in frame
+2026-05-09 15:47:43,Phone Usage,Phone detected in frame
+2026-05-09 15:47:47,Distraction,Looking Center for >3s
+2026-05-09 15:47:52,Phone Usage,Phone detected in frame
+2026-05-09 15:47:55,Phone Usage,Phone detected in frame
+2026-05-09 15:47:55,Distraction,Looking Center for >3s
+2026-05-09 15:48:07,Distraction,Looking Center for >3s
+2026-05-09 15:48:17,Distraction,Looking Center for >3s
+2026-05-09 15:48:24,Phone Usage,Phone detected in frame
+2026-05-09 15:48:26,Phone Usage,Phone detected in frame
+2026-05-09 15:48:27,Phone Usage,Phone detected in frame
+2026-05-09 15:48:28,Phone Usage,Phone detected in frame
+2026-05-09 15:48:33,Phone Usage,Phone detected in frame
+2026-05-09 15:48:37,Phone Usage,Phone detected in frame
+2026-05-09 15:48:37,Phone Usage,Phone detected in frame
+2026-05-09 15:48:37,Phone Usage,Phone detected in frame
+2026-05-09 15:48:37,Phone Usage,Phone detected in frame
+2026-05-09 15:48:38,Phone Usage,Phone detected in frame
+2026-05-09 15:48:38,Phone Usage,Phone detected in frame
+2026-05-09 15:48:39,Phone Usage,Phone detected in frame
+2026-05-09 15:48:41,Phone Usage,Phone detected in frame
+2026-05-09 15:48:41,Phone Usage,Phone detected in frame
+2026-05-09 15:48:43,Phone Usage,Phone detected in frame
+2026-05-09 15:48:59,Distraction,Looking Center for >3s
+2026-05-09 15:49:01,Phone Usage,Phone detected in frame
+2026-05-09 15:49:16,Distraction,Looking Center for >3s
+2026-05-09 15:49:36,Distraction,Looking Center for >3s
+2026-05-09 15:49:45,Distraction,Looking Center for >3s
+2026-05-09 15:50:00,Distraction,Looking Center for >3s
+2026-05-09 15:50:33,Phone Usage,Phone detected in frame
+2026-05-09 15:50:34,Phone Usage,Phone detected in frame
+2026-05-09 15:50:35,Phone Usage,Phone detected in frame
+2026-05-09 15:50:36,Phone Usage,Phone detected in frame
+2026-05-09 15:50:36,Phone Usage,Phone detected in frame
+2026-05-09 15:51:05,Distraction,Looking Center for >3s
+2026-05-09 15:51:23,Distraction,Looking Center for >3s
+2026-05-09 15:51:36,Distraction,Looking Center for >3s
+2026-05-09 15:51:51,Phone Usage,Phone detected in frame
+2026-05-09 15:51:53,Phone Usage,Phone detected in frame
+2026-05-09 15:51:55,Phone Usage,Phone detected in frame
+2026-05-09 15:51:55,Phone Usage,Phone detected in frame
+2026-05-09 15:51:58,Phone Usage,Phone detected in frame
+2026-05-09 15:52:00,Phone Usage,Phone detected in frame
+2026-05-09 15:52:47,Sleep,Eyes closed for >3s
+2026-05-09 15:52:59,Phone Usage,Phone detected in frame
+2026-05-09 15:53:00,Phone Usage,Phone detected in frame
+2026-05-09 15:53:04,Phone Usage,Phone detected in frame
+2026-05-09 15:53:04,Phone Usage,Phone detected in frame
+2026-05-09 15:53:05,Phone Usage,Phone detected in frame
+2026-05-09 15:53:06,Phone Usage,Phone detected in frame
+2026-05-09 15:53:06,Phone Usage,Phone detected in frame
+2026-05-09 15:53:06,Phone Usage,Phone detected in frame
+2026-05-09 15:53:07,Phone Usage,Phone detected in frame
+2026-05-09 15:53:08,Phone Usage,Phone detected in frame
+2026-05-09 15:53:09,Phone Usage,Phone detected in frame
+2026-05-09 15:53:12,Phone Usage,Phone detected in frame
+2026-05-09 15:53:12,Phone Usage,Phone detected in frame
+2026-05-09 15:53:12,Phone Usage,Phone detected in frame
+2026-05-09 15:53:14,Phone Usage,Phone detected in frame
+2026-05-09 15:53:14,Phone Usage,Phone detected in frame
+2026-05-09 15:53:16,Phone Usage,Phone detected in frame
+2026-05-09 15:53:17,Phone Usage,Phone detected in frame
+2026-05-09 15:55:38,Sleep,Eyes closed for >3s
+2026-05-09 15:56:02,Distraction,Looking Center for >3s
+2026-05-09 15:56:11,Distraction,Looking Center for >3s
+2026-05-09 15:56:18,Distraction,Looking Center for >3s
+2026-05-09 15:56:38,Sleep,Eyes closed for >3s
+2026-05-09 15:56:45,Phone Usage,Phone detected in frame
+2026-05-09 15:56:55,Phone Usage,Phone detected in frame
+2026-05-09 15:56:58,Phone Usage,Phone detected in frame
+2026-05-09 15:56:58,Phone Usage,Phone detected in frame
+2026-05-09 15:57:08,Distraction,Looking Center for >3s
+2026-05-09 15:57:18,Sleep,Eyes closed for >3s
+2026-05-09 15:57:27,Sleep,Eyes closed for >3s
+2026-05-09 15:57:35,Sleep,Eyes closed for >3s
+2026-05-09 15:57:47,Sleep,Eyes closed for >3s
+2026-05-09 15:57:52,Sleep,Eyes closed for >3s
+2026-05-09 15:57:55,Phone Usage,Phone detected in frame
+2026-05-09 15:57:56,Phone Usage,Phone detected in frame
+2026-05-09 15:58:06,Phone Usage,Phone detected in frame
+2026-05-09 15:58:08,Phone Usage,Phone detected in frame
+2026-05-09 15:58:08,Phone Usage,Phone detected in frame
+2026-05-09 15:58:12,Phone Usage,Phone detected in frame
+2026-05-09 15:58:16,Phone Usage,Phone detected in frame
+2026-05-09 15:58:17,Phone Usage,Phone detected in frame
+2026-05-09 15:58:17,Phone Usage,Phone detected in frame
+2026-05-09 15:58:18,Phone Usage,Phone detected in frame
+2026-05-09 15:58:18,Phone Usage,Phone detected in frame
+2026-05-09 15:58:19,Phone Usage,Phone detected in frame
+2026-05-09 16:02:42,Distraction,Looking Center for >3s
+2026-05-09 16:02:57,Distraction,Looking Center for >3s
+2026-05-09 16:03:14,Distraction,Looking Center for >3s
+2026-05-09 16:03:34,Distraction,Looking Center for >3s
+2026-05-09 16:03:42,Distraction,Looking Center for >3s
+2026-05-09 16:03:49,Distraction,Looking Center for >3s
+2026-05-09 16:03:55,Distraction,Looking Center for >3s
+2026-05-09 16:04:17,Session End,"Total Sleeps: 16, Distractions: 27, Phones: 85"
+2026-05-10 02:36:43,Session Start,Study session started
+2026-05-10 02:37:07,Sleep,Eyes closed for >3s
+2026-05-10 02:37:15,Phone Usage,Phone detected in frame
+2026-05-10 02:37:17,Phone Usage,Phone detected in frame
+2026-05-10 02:37:17,Phone Usage,Phone detected in frame
+2026-05-10 02:37:26,Phone Usage,Phone detected in frame
+2026-05-10 02:37:53,Distraction,Looking Center for >3s
+2026-05-10 02:37:59,Phone Usage,Phone detected in frame
+2026-05-10 02:38:00,Phone Usage,Phone detected in frame
+2026-05-10 02:38:01,Phone Usage,Phone detected in frame
+2026-05-10 02:38:19,Sleep,Eyes closed for >3s
+2026-05-10 02:38:48,Sleep,Eyes closed for >3s
+2026-05-10 02:38:58,Sleep,Eyes closed for >3s
+2026-05-10 02:39:06,Sleep,Eyes closed for >3s
+2026-05-10 02:39:11,Session End,"Total Sleeps: 5, Distractions: 1, Phones: 7"
+2026-05-10 02:39:29,Session Start,Study session started
+2026-05-10 02:39:41,Sleep,Eyes closed for >3s
+2026-05-10 02:39:50,Sleep,Eyes closed for >3s
+2026-05-10 02:40:00,Sleep,Eyes closed for >3s
+2026-05-10 02:40:05,Sleep,Eyes closed for >3s
+2026-05-10 02:40:18,Sleep,Eyes closed for >3s
+2026-05-10 02:40:24,Session End,"Total Sleeps: 5, Distractions: 0, Phones: 0"
+2026-05-10 02:41:05,Session Start,Study session started
+2026-05-10 02:41:12,Sleep,Eyes closed for >3s
+2026-05-10 02:41:14,Sleep,Eyes closed for >3s
+2026-05-10 02:41:18,Sleep,Eyes closed for >3s
+2026-05-10 02:41:29,Distraction,Looking Center for >3s
+2026-05-10 02:41:32,Sleep,Eyes closed for >3s
+2026-05-10 02:41:45,Distraction,Looking Center for >3s
+2026-05-10 02:41:50,Distraction,Looking Center for >3s
+2026-05-10 02:41:54,Sleep,Eyes closed for >3s
+2026-05-10 02:41:56,Session End,"Total Sleeps: 5, Distractions: 3, Phones: 0"
+2026-05-10 02:53:32,Session Start,Study session started
+2026-05-10 02:53:55,Sleep,Eyes closed for >3s
+2026-05-10 02:53:59,Phone Usage,Phone detected in frame
+2026-05-10 02:53:59,Phone Usage,Phone detected in frame
+2026-05-10 02:53:59,Sleep,Eyes closed for >3s
+2026-05-10 02:54:08,Phone Usage,Phone detected in frame
+2026-05-10 02:54:08,Phone Usage,Phone detected in frame
+2026-05-10 02:54:09,Phone Usage,Phone detected in frame
+2026-05-10 02:54:10,Phone Usage,Phone detected in frame
+2026-05-10 02:54:10,Phone Usage,Phone detected in frame
+2026-05-10 02:54:12,Phone Usage,Phone detected in frame
+2026-05-10 02:54:12,Phone Usage,Phone detected in frame
+2026-05-10 02:54:15,Phone Usage,Phone detected in frame
+2026-05-10 02:54:15,Phone Usage,Phone detected in frame
+2026-05-10 02:54:16,Phone Usage,Phone detected in frame
+2026-05-10 02:54:17,Phone Usage,Phone detected in frame
+2026-05-10 02:54:17,Phone Usage,Phone detected in frame
+2026-05-10 02:54:19,Phone Usage,Phone detected in frame
+2026-05-10 02:54:19,Phone Usage,Phone detected in frame
+2026-05-10 02:54:20,Phone Usage,Phone detected in frame
+2026-05-10 02:54:21,Phone Usage,Phone detected in frame
+2026-05-10 02:54:21,Phone Usage,Phone detected in frame
+2026-05-10 02:54:21,Phone Usage,Phone detected in frame
+2026-05-10 02:54:22,Phone Usage,Phone detected in frame
+2026-05-10 02:54:22,Phone Usage,Phone detected in frame
+2026-05-10 02:54:26,Phone Usage,Phone detected in frame
+2026-05-10 02:54:27,Phone Usage,Phone detected in frame
+2026-05-10 02:54:28,Phone Usage,Phone detected in frame
+2026-05-10 02:54:29,Phone Usage,Phone detected in frame
+2026-05-10 02:54:31,Phone Usage,Phone detected in frame
+2026-05-10 02:54:32,Phone Usage,Phone detected in frame
+2026-05-10 02:54:32,Sleep,Eyes closed for >3s
+2026-05-10 02:54:33,Phone Usage,Phone detected in frame
+2026-05-10 02:54:34,Phone Usage,Phone detected in frame
+2026-05-10 02:54:48,Sleep,Eyes closed for >3s
+2026-05-10 02:55:45,Sleep,Eyes closed for >3s
+2026-05-10 02:55:47,Sleep,Eyes closed for >3s
+2026-05-10 02:56:40,Sleep,Eyes closed for >3s
+2026-05-10 02:56:51,Distraction,Looking Center for >3s
+2026-05-10 02:56:56,Sleep,Eyes closed for >3s
+2026-05-10 02:57:14,Sleep,Eyes closed for >3s
+2026-05-10 02:57:40,Distraction,Looking Center for >3s
+2026-05-10 02:57:43,Distraction,Looking Center for >3s
+2026-05-10 02:57:54,Distraction,Looking Center for >3s
+2026-05-10 02:58:02,Distraction,Looking Center for >3s
+2026-05-10 02:58:09,Distraction,Looking Center for >3s
+2026-05-10 02:58:12,Distraction,Looking Center for >3s
+2026-05-10 02:59:01,Distraction,Looking Center for >3s
+2026-05-10 02:59:08,Distraction,Looking Center for >3s
+2026-05-10 02:59:12,Distraction,Looking Center for >3s
+2026-05-10 02:59:17,Distraction,Looking Center for >3s
+2026-05-10 02:59:53,Distraction,Looking Center for >3s
+2026-05-10 02:59:56,Distraction,Looking Center for >3s
+2026-05-10 02:59:58,Distraction,Looking Center for >3s
+2026-05-10 03:02:18,Distraction,Looking Center for >3s
+2026-05-10 03:02:24,Distraction,Looking Center for >3s
+2026-05-10 03:02:30,Distraction,Looking Center for >3s
+2026-05-10 03:03:49,Distraction,Looking Center for >3s
+2026-05-10 03:03:50,Distraction,Looking Center for >3s
+2026-05-10 03:03:56,Distraction,Looking Center for >3s
+2026-05-10 03:03:59,Distraction,Looking Center for >3s
+2026-05-10 03:04:08,Distraction,Looking Center for >3s
+2026-05-10 03:04:39,Distraction,Looking Center for >3s
+2026-05-10 03:05:00,Distraction,Looking Center for >3s
+2026-05-10 03:05:01,Distraction,Looking Center for >3s
+2026-05-10 03:05:04,Distraction,Looking Center for >3s
+2026-05-10 03:05:07,Distraction,Looking Center for >3s
+2026-05-10 03:06:03,Distraction,Looking Center for >3s
+2026-05-10 03:06:11,Distraction,Looking Center for >3s
+2026-05-10 03:06:13,Distraction,Looking Center for >3s
+2026-05-10 03:06:16,Distraction,Looking Center for >3s
+2026-05-10 03:07:02,Distraction,Looking Center for >3s
+2026-05-10 03:07:18,Distraction,Looking Center for >3s
+2026-05-10 03:07:23,Distraction,Looking Center for >3s
+2026-05-10 03:07:33,Distraction,Looking Center for >3s
+2026-05-10 03:07:39,Sleep,Eyes closed for >3s
+2026-05-10 03:07:40,Distraction,Looking Center for >3s
+2026-05-10 03:07:43,Sleep,Eyes closed for >3s
+2026-05-10 03:07:57,Sleep,Eyes closed for >3s
+2026-05-10 03:07:59,Distraction,Looking Center for >3s
+2026-05-10 03:08:08,Sleep,Eyes closed for >3s
+2026-05-10 03:08:08,Distraction,Looking Center for >3s
+2026-05-10 03:08:10,Distraction,Looking Center for >3s
+2026-05-10 03:08:20,Distraction,Looking Center for >3s
+2026-05-10 03:08:23,Distraction,Looking Center for >3s
+2026-05-10 03:08:53,Distraction,Looking Center for >3s
+2026-05-10 03:08:55,Sleep,Eyes closed for >3s
+2026-05-10 03:08:58,Distraction,Looking Center for >3s
+2026-05-10 03:09:12,Distraction,Looking Center for >3s
+2026-05-10 03:09:28,Distraction,Looking Center for >3s
+2026-05-10 03:09:42,Distraction,Looking Center for >3s
+2026-05-10 03:09:50,Distraction,Looking Center for >3s
+2026-05-10 03:10:04,Sleep,Eyes closed for >3s
+2026-05-10 03:10:08,Distraction,Looking Center for >3s
+2026-05-10 03:10:11,Sleep,Eyes closed for >3s
+2026-05-10 03:10:14,Sleep,Eyes closed for >3s
+2026-05-10 03:10:17,Sleep,Eyes closed for >3s
+2026-05-10 03:10:48,Sleep,Eyes closed for >3s
+2026-05-10 03:11:04,Distraction,Looking Center for >3s
+2026-05-10 03:11:14,Distraction,Looking Center for >3s
+2026-05-10 03:11:18,Distraction,Looking Center for >3s
+2026-05-10 03:11:20,Distraction,Looking Center for >3s
+2026-05-10 03:11:26,Distraction,Looking Center for >3s
+2026-05-10 03:11:27,Phone Usage,Phone detected in frame
+2026-05-10 03:11:28,Distraction,Looking Center for >3s
+2026-05-10 03:11:56,Sleep,Eyes closed for >3s
+2026-05-10 03:12:08,Sleep,Eyes closed for >3s
+2026-05-10 03:12:23,Distraction,Looking Center for >3s
+2026-05-10 03:12:36,Distraction,Looking Center for >3s
+2026-05-10 03:13:36,Distraction,Looking Center for >3s
+2026-05-10 03:13:48,Distraction,Looking Center for >3s
+2026-05-10 03:13:52,Distraction,Looking Center for >3s
+2026-05-10 03:13:55,Distraction,Looking Center for >3s
+2026-05-10 03:13:58,Phone Usage,Phone detected in frame
+2026-05-10 03:13:59,Phone Usage,Phone detected in frame
+2026-05-10 03:13:59,Phone Usage,Phone detected in frame
+2026-05-10 03:14:13,Distraction,Looking Center for >3s
+2026-05-10 03:14:27,Distraction,Looking Center for >3s
+2026-05-10 03:14:30,Distraction,Looking Center for >3s
+2026-05-10 03:14:49,Distraction,Looking Center for >3s
+2026-05-10 03:15:21,Distraction,Looking Center for >3s
+2026-05-10 03:15:26,Distraction,Looking Center for >3s
+2026-05-10 03:15:28,Distraction,Looking Center for >3s
+2026-05-10 03:16:06,Distraction,Looking Center for >3s
+2026-05-10 03:16:16,Distraction,Looking Center for >3s
+2026-05-10 03:16:45,Distraction,Looking Center for >3s
+2026-05-10 03:16:47,Distraction,Looking Center for >3s
+2026-05-10 03:16:56,Distraction,Looking Center for >3s
+2026-05-10 03:17:05,Distraction,Looking Center for >3s
+2026-05-10 03:17:21,Distraction,Looking Center for >3s
+2026-05-10 03:17:23,Distraction,Looking Center for >3s
+2026-05-10 03:17:33,Distraction,Looking Center for >3s
+2026-05-10 03:17:45,Distraction,Looking Center for >3s
+2026-05-10 03:19:09,Distraction,Looking Center for >3s
+2026-05-10 03:19:14,Distraction,Looking Center for >3s
+2026-05-10 03:19:26,Distraction,Looking Center for >3s
+2026-05-10 03:22:10,Distraction,Looking Center for >3s
+2026-05-10 03:23:04,Distraction,Looking Center for >3s
+2026-05-10 03:23:39,Distraction,Looking Center for >3s
+2026-05-10 03:23:46,Distraction,Looking Center for >3s
+2026-05-10 03:23:51,Distraction,Looking Center for >3s
+2026-05-10 03:24:16,Distraction,Looking Center for >3s
+2026-05-10 03:24:28,Distraction,Looking Center for >3s
+2026-05-10 03:24:41,Distraction,Looking Center for >3s
+2026-05-10 03:24:52,Session End,"Total Sleeps: 21, Distractions: 88, Phones: 34"
+2026-05-11 00:33:20,Session Start,Study session started
+2026-05-11 00:33:44,Sleep,Eyes closed for >3s
+2026-05-11 00:33:48,Distraction,Looking Center for >3s
+2026-05-11 00:33:54,Distraction,Looking Center for >3s
+2026-05-11 00:34:01,Phone Usage,Phone detected in frame
+2026-05-11 00:34:01,Phone Usage,Phone detected in frame
+2026-05-11 00:34:03,Phone Usage,Phone detected in frame
+2026-05-11 00:34:04,Distraction,Looking Center for >3s
+2026-05-11 00:34:11,Distraction,Looking Center for >3s
+2026-05-11 00:34:19,Distraction,Looking Center for >3s
+2026-05-11 00:34:22,Distraction,Looking Center for >3s
+2026-05-11 00:34:26,Distraction,Looking Center for >3s
+2026-05-11 00:34:37,Distraction,Looking Center for >3s
+2026-05-11 00:34:41,Distraction,Looking Center for >3s
+2026-05-11 00:34:45,Distraction,Looking Center for >3s
+2026-05-11 00:34:48,Distraction,Looking Center for >3s
+2026-05-11 00:35:14,Distraction,Looking Center for >3s
+2026-05-11 00:35:19,Distraction,Looking Center for >3s
+2026-05-11 00:35:22,Distraction,Looking Center for >3s
+2026-05-11 00:35:24,Distraction,Looking Center for >3s
+2026-05-11 00:35:27,Distraction,Looking Center for >3s
+2026-05-11 00:35:54,Sleep,Eyes closed for >3s
+2026-05-11 00:36:27,Session End,"Total Sleeps: 2, Distractions: 16, Phones: 3"
+2026-05-11 00:36:39,Session Start,Study session started
+2026-05-11 00:36:47,Sleep,Eyes closed for >3s
+2026-05-11 00:36:56,Sleep,Eyes closed for >3s
+2026-05-11 00:37:02,Sleep,Eyes closed for >3s
+2026-05-11 00:37:03,Sleep,Eyes closed for >3s
+2026-05-11 00:37:07,Session End,"Total Sleeps: 4, Distractions: 0, Phones: 0"
+2026-05-27 16:08:24,Session Start,Study session started
+2026-05-27 16:08:34,Distraction,Looking Center for >3s
+2026-05-27 16:08:43,Sleep,Eyes closed for >3s
+2026-05-27 16:08:54,Sleep,Eyes closed for >3s
+2026-05-27 16:09:00,Phone Usage,Phone detected in frame
+2026-05-27 16:09:00,Phone Usage,Phone detected in frame
+2026-05-27 16:09:01,Phone Usage,Phone detected in frame
+2026-05-27 16:09:01,Phone Usage,Phone detected in frame
+2026-05-27 16:09:02,Phone Usage,Phone detected in frame
+2026-05-27 16:09:02,Phone Usage,Phone detected in frame
+2026-05-27 16:09:06,Phone Usage,Phone detected in frame
+2026-05-27 16:09:16,Sleep,Eyes closed for >3s
+2026-05-27 16:09:34,Phone Usage,Phone detected in frame
+2026-05-27 16:09:36,Session End,"Total Sleeps: 3, Distractions: 1, Phones: 8"
+2026-05-27 16:10:28,Session Start,Study session started
+2026-05-27 16:10:37,Sleep,Eyes closed for >3s
+2026-05-27 16:10:43,Sleep,Eyes closed for >3s
+2026-05-27 16:10:58,Sleep,Eyes closed for >3s
+2026-05-27 16:11:03,Distraction,Looking Center for >3s
+2026-05-27 16:11:05,Distraction,Looking Center for >3s
+2026-05-27 16:11:07,Distraction,Looking Center for >3s
+2026-05-27 16:11:10,Distraction,Looking Center for >3s
+2026-05-27 16:11:15,Sleep,Eyes closed for >3s
+2026-05-27 16:11:20,Distraction,Looking Center for >3s
+2026-05-27 16:11:24,Phone Usage,Phone detected in frame
+2026-05-27 16:11:25,Phone Usage,Phone detected in frame
+2026-05-27 16:11:34,Sleep,Eyes closed for >3s
+2026-05-27 16:11:34,Session End,"Total Sleeps: 5, Distractions: 5, Phones: 2"
